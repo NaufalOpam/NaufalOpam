@@ -1,4 +1,14 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Naufal Azmi Wardhana**.\
+
+Saya seorang **Mahasiswa** di Universitas Mataram jurusan **Teknik Informatika**.\
+
+Media Sosial :\
+- Instagram : @naufalazmw
+- Facebook : Naufal Azmi Wardhana
+- Email : naufalazmi2002@gmail.com
+
 
 <!--
 **NaufalOpam/NaufalOpam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
