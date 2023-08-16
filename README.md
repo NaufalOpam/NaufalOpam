@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Naufal Azmi Wardhana**.
 
-Saya seorang **Mahasiswa** di Universitas Mataram jurusan **Teknik Informatika**.
+Saya seorang **Mahasiswa** di **Universitas Mataram** jurusan **Teknik Informatika**.
 
 Media Sosial :
 - Instagram : @naufalazmw
