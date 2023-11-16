@@ -6,10 +6,9 @@ Saya seorang **Mahasiswa** di **Universitas Mataram** jurusan **Teknik Informati
 Saat ini saya sedang mempelajari **Front-End Web Development Learning Path**
 
 Media Sosial :
-<a href="https://www.instagram.com/naufalazmw>" target="_blank">Instagram</a>, 
-<a href="https://facebook.com/Naufal Azmi Wardhana"  target="_blank">Facebook</a>, 
-<a href="https://www.linkedin.com/in/Naufal Azmi Wardhana>" target="_blank">LinkedIn</a>, dan
-<a href="https://gmail.com/naufalazmi2002@gmail.com"  target="_blank">Email</a>
+<a href="https://www.instagram.com/naufalazmw" target="_blank">Instagram</a>, 
+<a href="https://facebook.com/Naufal Azmi Wardhana"  target="_blank">Facebook</a>, dan
+<a href="https://www.linkedin.com/in/Naufal Azmi Wardhana" target="_blank">LinkedIn</a>
 
 <p align="left">
 <a href="https://github.com/NaufalOpam">
