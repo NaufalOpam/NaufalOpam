@@ -3,11 +3,13 @@
 Perkenalkan nama saya **Naufal Azmi Wardhana**.
 
 Saya seorang **Mahasiswa** di **Universitas Mataram** jurusan **Teknik Informatika**.
+Saat ini saya sedang mempelajari **Front-End Web Development Learning Path**
 
 Media Sosial :
-- Instagram : @naufalazmw
-- Facebook : Naufal Azmi Wardhana
-- Email : naufalazmi2002@gmail.com
+<a href="https://www.instagram.com/<naufalazmw>/" target="_blank">Instagram</a>, 
+<a href="https://facebook.com/<Naufal Azmi Wardhana>"  target="_blank">Facebook</a>, 
+<a href="https://www.linkedin.com/in/<Naufal Azmi Wardhana>/" target="_blank">LinkedIn</a>, dan
+<a href="https://gmail.com/<naufalazmi2002@gmail.com>"  target="_blank">Email</a>
 
 <p align="left">
 <a href="https://github.com/NaufalOpam">
