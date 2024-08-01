@@ -2,13 +2,13 @@
 
 Perkenalkan nama saya **Naufal Azmi Wardhana**.
 
-Saya seorang **Mahasiswa** di **Universitas Mataram** jurusan **Teknik Informatika**.
-Saat ini saya sedang mempelajari **Front-End Web Development Learning Path**
+Saya seorang **Lulusan Mahasiswa Sarjana** dari **Universitas Mataram** jurusan **Teknik Informatika**.
+Saat ini saya sedang mempelajari **Machine Learning**
 
 Media Sosial :
 <a href="https://www.instagram.com/naufalazmw" target="_blank">Instagram</a>, 
 <a href="https://facebook.com/Naufal Azmi Wardhana"  target="_blank">Facebook</a>, dan
-<a href="https://www.linkedin.com/in/Naufal Azmi Wardhana" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/naufal-azmi-wardhana-59b99922b/" target="_blank">LinkedIn</a>
 
 <p align="left">
 <a href="https://github.com/NaufalOpam">
